@@ -1,0 +1,10 @@
+C:\Users\cliente-preferido\source\repos\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+C:\Users\cliente-preferido\source\repos\SimpleFactory\bin\Debug\SimpleFactory.exe
+C:\Users\cliente-preferido\source\repos\SimpleFactory\bin\Debug\SimpleFactory.pdb
+C:\Users\cliente-preferido\source\repos\SimpleFactory\obj\Debug\SimpleFactory.csprojAssemblyReference.cache
+C:\Users\cliente-preferido\source\repos\SimpleFactory\obj\Debug\SimpleFactory.NameSplitter.resources
+C:\Users\cliente-preferido\source\repos\SimpleFactory\obj\Debug\SimpleFactory.Properties.Resources.resources
+C:\Users\cliente-preferido\source\repos\SimpleFactory\obj\Debug\SimpleFactory.csproj.GenerateResource.cache
+C:\Users\cliente-preferido\source\repos\SimpleFactory\obj\Debug\SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\cliente-preferido\source\repos\SimpleFactory\obj\Debug\SimpleFactory.exe
+C:\Users\cliente-preferido\source\repos\SimpleFactory\obj\Debug\SimpleFactory.pdb
